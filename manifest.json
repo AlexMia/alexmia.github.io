@@ -1,0 +1,22 @@
+{
+  "short_name": "Calculator",
+  "name": "iOS Calculator",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/calc/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/calc/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "description": "iOS Style Calculator"
+}
