@@ -3,7 +3,7 @@
   "name": "iOS Calculator",
   "icons": [
     {
-      "src": "/assets/calculator.ico",
+      "src": "/assets/calculator.ico"
     }
   ],
   "start_url": "/",
