@@ -3,8 +3,14 @@
   "name": "iOS Calculator",
   "icons": [
     {
-      "src": "/assets/calculator.png",
-      "type": "image/png"
+      "src": "https://picsum.photos/seed/calc/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/calc/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "/",
